@@ -1,26 +1,9 @@
- 1021  ksnaphot
- 1022  ..
- 1023  ksnapshot
- 1024  matlab
- 1025  ssh -X xmate@213.175.92.22
- 1026  firefox&
- 1027  firefox &
- 1028  firefox&
- 1029  ssh x161REB075
- 1030  ssh -X x161REB075@213.175.92.37
- 1031  ssh -X x161REB075@213.175.92.22
- 1032  ssh -X x161REB075@213.175.92.37
- 1033  ssh -X x161REB075@213.175.92.22
- 1034  g
- 1035  wef
- 1036  ssh -X x161REB075@213.175.92.22
- 1037  e
- 1038  w
- 1039  ssh -X x161REB075@213.175.92.22
+
+
  1040  firefox&
  1041  ssh -X x161REB075@213.175.92.22
- 1042  exit
- 1043  ssh -X x161REB075@213.175.92.37
+
+   ssh -X x161REB075@213.175.92.37
  1044  ssh -X x161REB075@213.175.92.22
  1045  213
  1046  21
@@ -998,3 +981,20 @@
  2018  cd darbikisa
  2019  history
  2020  history > history.txt
+ 2021  ls
+ 2022  cat history.txt
+ 2023  git config --global user.name takuzuka@mail.ru
+ 2024  cat history.txt
+ 2025  nano history.txt
+ 2026  git init
+ 2027  gti add .
+ 2028  git add .
+ 2029  git config --global email miilkyyway@gmail.com
+ 2030  git config --global user.email miilkyyway@gmail.com
+ 2031  git cimmit -m "20170914_09_30"
+ 2032  git commit -m "20170914_09_30"
+ 2033  git remote  add origin https://github.com/AnnaMilana/DMI.git
+ 2034  git push origin master
+ 2035  pwd
+ 2036  history
+ 2037  history > history.txt
